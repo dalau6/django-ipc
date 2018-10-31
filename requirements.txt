@@ -39,7 +39,7 @@ python-dateutil==2.7.3
 python-scrapyd-api==2.1.2
 pytz==2018.4
 queuelib==1.5.0
-requests==2.19.1
+requests==2.20.0
 Scrapy==1.5.0
 scrapy-djangoitem==1.1.1
 scrapyd==1.2.0
