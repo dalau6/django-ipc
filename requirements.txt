@@ -10,7 +10,7 @@ constantly==15.1.0
 cryptography==2.3
 cssselect==1.0.3
 decorator==4.3.0
-Django==2.0.8
+Django==2.2.13
 django-cors-headers==2.3.0
 djangorestframework==3.8.2
 future==0.15.2
